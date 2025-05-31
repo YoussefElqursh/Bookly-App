@@ -52,3 +52,5 @@ bookly_app is a mobile application that allows users to browse, preview, and dow
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## 📦 APK Download
+(https://drive.google.com/file/d/1Ub1YOH3uKP9F-iwB6IcDo5wse1Gl06l9/view?usp=sharing)
